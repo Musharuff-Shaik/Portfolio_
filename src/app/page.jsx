@@ -24,10 +24,9 @@ const Homepage = () => {
           </h1>
           {/* DESC */}
           <p className="md:text-xl">
-            Welcome to my digital canvas, where innovation and creativity
-            converge. With a keen eye for aesthetics and a mastery of code, my
-            portfolio showcases a diverse collection of projects that reflect my
-            commitment to excellence.
+            Hello ! This is Musharuff , and i am currently pursing my btech in 
+            ABV_IIITM GWALIOR in IT Branch . I would like to solve DSA problems 
+            and trying to build new webapps for fun . 
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">
